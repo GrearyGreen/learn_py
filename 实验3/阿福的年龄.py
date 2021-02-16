@@ -1,0 +1,1 @@
+print(2080-eval(input()[6:10]))
